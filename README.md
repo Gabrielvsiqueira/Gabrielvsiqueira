@@ -1,16 +1,22 @@
-### Hi there 👋
+### Oi! Me chamo Gabriel Vitor Siqueira, e sou um entusiasta da tecnologia!
 
-<!--
-**Gabrielvsiqueira/Gabrielvsiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente sou estagiário na TRIZY
+- 🌱 Atualmente estou estudando HTML | CSS | JavaScript | TypeScript 
+ 
+  <div>
+  <a href="https://github.com/FrCorrea">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielvsiqueira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielvsiqueira&layout=compact&langs_count=7&theme=merko"/>
+</div>
+   
+</div>
+  <a href="https://www.instagram.com/gvsiqueira_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/gabriel-vitor-siqueira-103717217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+  </div>
+ 
