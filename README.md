@@ -1,7 +1,7 @@
 ### Oi! Me chamo Gabriel Vitor Siqueira, e sou um entusiasta da tecnologia!
 
 - 🔭 Atualmente sou estagiário na TRIZY
-- 💼 Trabalho atualmente com deenvolvimento Back-end plsql developer E Oracle SQL developer
+- 💼 Trabalho atualmente com deenvolvimento Back-end, PLSQL developer e Oracle SQL developer
 - 🌱 Atualmente estou estudando HTML | CSS | JavaScript | TypeScript 
  
   <div>
