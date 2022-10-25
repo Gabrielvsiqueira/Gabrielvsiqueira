@@ -1,8 +1,8 @@
 ### Olá! Me chamo Gabriel Vitor Siqueira, e sou um entusiasta da tecnologia.
 
 - 🔭 Atualmente sou estagiário na TRIZY, uma logtech que tem seu foco em revolucionar a logística do país e facilitar a relação entre empresa e caminhoneiro.
-- 💼 Trabalho atualmente com desenvolvimento Back-end, PLSQL developer e Oracle SQL developer
-- 🌱 Atualmente estou estudando Ciência da Computação, na Universidade Tecnológica Federal do Paraná
+- 💼 Trabalho atualmente com desenvolvimento Back-end, PLSQL developer e Oracle SQL developer.
+- 🌱 Atualmente estou estudando Ciência da Computação, na Universidade Tecnológica Federal do Paraná e  também estou estudando desenvolvimento front-end.
 
   <div>
   <a href="https://github.com/FrCorrea">
