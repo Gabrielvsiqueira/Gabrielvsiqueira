@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente sou estagiário na TRIZY, uma logtech que tem seu foco em revolucionar a logística do país e facilitar a relação entre empresa e caminhoneiro.
 - 💼 Trabalho atualmente com desenvolvimento Back-end, PLSQL developer e Oracle SQL developer.
-- 🌱 Atualmente estou estudando Ciência da Computação, na Universidade Tecnológica Federal do Paraná e  também estou estudando desenvolvimento front-end.  
+- 🌱 Atualmente estou estudando Ciência da Computação, na Universidade Tecnológica Federal do Paraná e  também estou estudando Data Science.  
 <div align="center">
   <a href="https://github.com/Gabrielvsiqueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielvsiqueira&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
