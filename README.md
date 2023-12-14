@@ -1,7 +1,7 @@
-### Olá! Me chamo Gabriel Vitor Siqueira, sou apaixonado por tecnologia.
+### Hello! My name is Gabriel Vitor Siqueira, I am passionate about technology.
 
-- 🔭 Atuo como Desenvolvedor Júnior na TRIZY, uma logtech que tem seu foco em revolucionar a logística do país e facilitar a relação entre empresa e caminhoneiro.
-- 💼 Trabalho atualmente com desenvolvimento Back-end, usando as ferramentes PLSQL developer e Oracle SQL developer. Mas tenho experiências em diferentes vertentes, tanto desenvolvimento back-end como front-end. Tenho habilidades como tecnologias como JavaScript, TypeScript, PostgreSQL, Angular e Java. Frameworks como React, Next.js, Angular.js, Vue.js, entre outras feramentas.
+- 🔭 I work as a Junior Full Stack Developer at TRIZY.
+- 💼 Technology enthusiast with experience in Full Stack Development in projects for national and international companies. Consolidated skills in exploratory testing, automation and various languages, such as PostgreSQL, PL/SQL, SQL server, C\#, .NET, Pyhton, Javascript, HTML, CSS, Typescript, React, Next.js.
 <div align="center">
   <a href="https://github.com/Gabrielvsiqueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielvsiqueira&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
