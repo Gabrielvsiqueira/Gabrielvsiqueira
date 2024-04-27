@@ -1,6 +1,6 @@
 ### Hello! My name is Gabriel Vitor Siqueira, I am passionate about technology.
 
-- 🔭 I work as a Junior Full Stack Developer at TRIZY.
+- 🔭 I work as a Tester Engineer at GLobant.
 - 💼 Technology enthusiast with experience in Full Stack Development in projects for national and international companies. Consolidated skills in exploratory testing, automation and various languages, such as PostgreSQL, PL/SQL, SQL server, C\#, .NET, Pyhton, Javascript, HTML, CSS, Typescript, React, Next.js.
 <div align="center">
   <a href="https://github.com/Gabrielvsiqueira">
