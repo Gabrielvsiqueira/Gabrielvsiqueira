@@ -9,12 +9,13 @@ With projects and studies focused on the web area, I seek opportunities to apply
 oriented foundation and project experience.
 
 ## Connect with me
-<div> 
-  <a href="https://www.linkedin.com/in/gabriel-vitor-siqueira/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Linkedin-0078D4?style=for-the-badge&logo=linkedin&logoColor=white">
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriel-vitor-siqueira/" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Linkedin-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/gvsiqueira_/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.instagram.com/gvsiqueira_/" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-</div>
+</p>
+
 
