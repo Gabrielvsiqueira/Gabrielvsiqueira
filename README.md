@@ -8,8 +8,8 @@ skills in creating robust and scalable solutions, ensuring the quality and effic
 With projects and studies focused on the web area, I seek opportunities to apply my strong objective-
 oriented foundation and project experience.
 
-<div align="center">
-  <a href="https://github.com/Gabrielvsiqueira">
-
-</div>
+## Connect with me
+<div> 
+<a href = "https://www.linkedin.com/in/gabriel-vitor-siqueira//"><img src="https://img.shields.io/badge/Linkedin-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/gvsiqueira_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
