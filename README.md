@@ -34,7 +34,7 @@ My background in **test automation** (Playwright, Cypress), **component performa
 
 ## 📌 Contact
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/gabriel-vitor-siqueira/))
+- 💼 [LinkedIn]((https://www.linkedin.com/in/gabriel-vitor-siqueira/))
 - 📧 gabesiqueira25@gmail.com
 - 🌐 [Portfolio or Personal Website](https://yourwebsite.dev)
 
