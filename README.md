@@ -37,7 +37,3 @@ My background in **test automation** (Playwright, Cypress), **component performa
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-vitor-siqueira/)
 - 📧 gabesiqueira25@gmail.com
 - 🌐 [Portfolio or Personal Website](https://yourwebsite.dev)
-
----
-
-> ⭐ *Always seeking to build efficient, accessible, and impactful solutions for users!*
