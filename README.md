@@ -40,7 +40,7 @@
   </p>
   <p><strong>Backend</strong></p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,graphql,postgres,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postgres,mysql,mongodb" />
   </p>
   <p><strong>DevOps, Cloud & Tools</strong></p>
   <p align="center">
