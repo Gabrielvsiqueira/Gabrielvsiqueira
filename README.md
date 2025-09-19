@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <p>
-    <strong>I'm currently working as a Software Engineer at Globant LTDA</strong>
+    <strong>I'm currently working as a Test Automation Engineer at Globant LTDA</strong>
   </p>
 </div>
 
